@@ -1,0 +1,13 @@
+{
+  "name": "print",
+  "note": "Flat, high contrast, no soft tints. Survives photocopying and projection.",
+  "color": {
+    "accent": "#0B4FD1", "accent-deep": "#06306F", "accent-soft": "#E4EDFB",
+    "ink": "#000000", "ink-2": "#1A1A1A", "ink-3": "#3D3D3D",
+    "surface": "#FFFFFF", "sunken": "#F2F2F2", "canvas": "#FFFFFF",
+    "hairline": "#9E9E9E", "edge": "#000000", "edge-soft": "#0B4FD1",
+    "good": "#046C4E", "warn": "#8A4B00", "bad": "#8C1D18", "info": "#4B2AA8"
+  },
+  "series": ["#0B4FD1", "#046C4E", "#8A4B00", "#4B2AA8", "#0E5E6F", "#8C1D18"],
+  "radius": 4
+}

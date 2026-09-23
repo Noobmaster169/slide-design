@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#FFFFFF"/>
+  <text x="90.0" y="56.0" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="600" fill="#101828" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Flow</text>
+  <text x="90.0" y="84.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="16" font-weight="400" fill="#667085" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">stages, what each one is given, and what it hands on</text>
+  <rect x="90.0" y="215.9" width="426.7" height="302.1" rx="10" fill="#FFFFFF" stroke="#98A2B3" stroke-width="1.5" />
+  <rect x="258.3" y="182.9" width="90.0" height="26.0" rx="13" fill="#475467" stroke="#475467" stroke-width="1.5" />
+  <text x="303.3" y="200.8" font-family="ui-monospace, Menlo, monospace" font-size="14" font-weight="400" fill="#FFFFFF" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">every file</text>
+  <circle cx="134.0" cy="259.9" r="18.0" fill="#175CD3" stroke="none" stroke-width="1.5" />
+  <text x="134.0" y="266.4" font-family="Inter, system-ui, Arial, sans-serif" font-size="18.900000000000002" font-weight="600" fill="#FFFFFF" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">1</text>
+  <text x="166.0" y="267.9" font-family="Inter, system-ui, Arial, sans-serif" font-size="24" font-weight="600" fill="#101828" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Collect</text>
+  <rect x="126.0" y="305.9" width="38.0" height="50.0" rx="4" fill="#FFFFFF" stroke="#98A2B3" stroke-width="1.5" />
+  <rect x="172.0" y="305.9" width="38.0" height="50.0" rx="4" fill="#FFFFFF" stroke="#98A2B3" stroke-width="1.5" />
+  <rect x="218.0" y="305.9" width="38.0" height="50.0" rx="4" fill="#FFFFFF" stroke="#98A2B3" stroke-width="1.5" />
+  <text x="303.3" y="490.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="17" font-weight="400" fill="#475467" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Read whatever arrives, keep the original.</text>
+  <path d="M294 528 L294 552 L286 552 L303 566 L320 552 L312 552 L312 528 Z" fill="#EEF4FD" stroke="#B2CCF5" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+  <rect x="249.9" y="575.0" width="106.9" height="34.0" rx="17.0" fill="#FFFFFF" stroke="#98A2B3" stroke-width="1.5" />
+  <text x="303.3" y="597.3" font-family="Inter, system-ui, Arial, sans-serif" font-size="15" font-weight="500" fill="#101828" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">raw batch</text>
+  <rect x="586.7" y="215.9" width="426.7" height="302.1" rx="10" fill="#FFFFFF" stroke="#98A2B3" stroke-width="1.5" />
+  <rect x="753.4" y="182.9" width="93.2" height="26.0" rx="13" fill="#475467" stroke="#475467" stroke-width="1.5" />
+  <text x="800.0" y="200.8" font-family="ui-monospace, Menlo, monospace" font-size="14" font-weight="400" fill="#FFFFFF" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">pairs only</text>
+  <circle cx="630.7" cy="259.9" r="18.0" fill="#175CD3" stroke="none" stroke-width="1.5" />
+  <text x="630.7" y="266.4" font-family="Inter, system-ui, Arial, sans-serif" font-size="18.900000000000002" font-weight="600" fill="#FFFFFF" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">2</text>
+  <text x="662.7" y="267.9" font-family="Inter, system-ui, Arial, sans-serif" font-size="24" font-weight="600" fill="#101828" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Reconcile</text>
+  <rect x="753.5" y="307.9" width="93.0" height="28.0" rx="14.0" fill="#FFFFFF" stroke="#98A2B3" stroke-width="1.5" />
+  <text x="800.0" y="326.8" font-family="Inter, system-ui, Arial, sans-serif" font-size="14" font-weight="500" fill="#101828" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">matched</text>
+  <rect x="745.9" y="343.9" width="108.2" height="28.0" rx="14.0" fill="#F9FAFB" stroke="#98A2B3" stroke-width="1.5" />
+  <text x="800.0" y="362.8" font-family="Inter, system-ui, Arial, sans-serif" font-size="14" font-weight="500" fill="#475467" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">unmatched</text>
+  <text x="800.0" y="490.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="17" font-weight="400" fill="#475467" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Compare the two sides field by field.</text>
+  <path d="M791 528 L791 552 L783 552 L800 566 L817 552 L809 552 L809 528 Z" fill="#EEF4FD" stroke="#B2CCF5" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+  <rect x="738.4" y="575.0" width="123.2" height="34.0" rx="17.0" fill="#FFFFFF" stroke="#98A2B3" stroke-width="1.5" />
+  <text x="800.0" y="597.3" font-family="Inter, system-ui, Arial, sans-serif" font-size="15" font-weight="500" fill="#101828" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">matched set</text>
+  <path d="M529 354 L554 354 L554 342 L575 367 L554 392 L554 380 L529 380 Z" fill="#EEF4FD" stroke="#B2CCF5" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+  <rect x="1083.3" y="215.9" width="426.7" height="302.1" rx="10" fill="#EEF4FD" stroke="#B2CCF5" stroke-width="1.5" />
+  <rect x="1230.6" y="182.9" width="132.0" height="26.0" rx="13" fill="#475467" stroke="#475467" stroke-width="1.5" />
+  <text x="1296.7" y="200.8" font-family="ui-monospace, Menlo, monospace" font-size="14" font-weight="400" fill="#FFFFFF" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">everything read</text>
+  <circle cx="1127.3" cy="259.9" r="18.0" fill="#175CD3" stroke="none" stroke-width="1.5" />
+  <text x="1127.3" y="266.4" font-family="Inter, system-ui, Arial, sans-serif" font-size="18.900000000000002" font-weight="600" fill="#FFFFFF" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">3</text>
+  <text x="1159.3" y="267.9" font-family="Inter, system-ui, Arial, sans-serif" font-size="24" font-weight="600" fill="#101828" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Relate</text>
+  <line x1="1296.7" y1="313.9" x2="1133.3" y2="361.9" stroke="#B2CCF5" stroke-width="2" stroke-linecap="round"/>
+  <line x1="1296.7" y1="313.9" x2="1460.0" y2="361.9" stroke="#B2CCF5" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="1296.7" cy="313.9" r="9.0" fill="#175CD3" stroke="none" stroke-width="1.5" />
+  <circle cx="1133.3" cy="361.9" r="9.0" fill="#175CD3" stroke="none" stroke-width="1.5" />
+  <circle cx="1460.0" cy="361.9" r="9.0" fill="#175CD3" stroke="none" stroke-width="1.5" />
+  <text x="1296.7" y="490.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="17" font-weight="400" fill="#475467" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Turn the result into linked records.</text>
+  <path d="M1288 528 L1288 552 L1280 552 L1297 566 L1314 552 L1306 552 L1306 528 Z" fill="#EEF4FD" stroke="#B2CCF5" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+  <rect x="1218.7" y="575.0" width="155.9" height="34.0" rx="17.0" fill="#0F3F94" stroke="#0F3F94" stroke-width="1.5" />
+  <text x="1296.7" y="597.3" font-family="Inter, system-ui, Arial, sans-serif" font-size="15" font-weight="500" fill="#FFFFFF" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">knowledge graph</text>
+  <path d="M1025 354 L1051 354 L1051 342 L1071 367 L1051 392 L1051 380 L1025 380 Z" fill="#EEF4FD" stroke="#B2CCF5" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+</svg>

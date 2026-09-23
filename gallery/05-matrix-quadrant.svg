@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#FFFFFF"/>
+  <text x="80.0" y="56.0" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="600" fill="#101828" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Matrix and quadrant</text>
+  <text x="80.0" y="84.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="16" font-weight="400" fill="#667085" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">coverage as shading, position as judgement</text>
+  <text x="363.3" y="202.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="17" font-weight="600" fill="#475467" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Web</text>
+  <text x="530.0" y="202.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="17" font-weight="600" fill="#475467" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Mobile</text>
+  <text x="696.7" y="202.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="17" font-weight="600" fill="#475467" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">API</text>
+  <text x="80.0" y="286.5" font-family="Inter, system-ui, Arial, sans-serif" font-size="18" font-weight="400" fill="#101828" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Search</text>
+  <line x1="80.0" y1="222.0" x2="780.0" y2="222.0" stroke="#EAECF0" stroke-width="1" stroke-linecap="round"/>
+  <circle cx="363.3" cy="280.5" r="9.0" fill="#12B76A" stroke="none" stroke-width="1.5" />
+  <circle cx="530.0" cy="280.5" r="9.0" fill="#12B76A" stroke="none" stroke-width="1.5" />
+  <rect x="619.3" y="228.0" width="154.7" height="105.0" rx="6" fill="#A2BEED" stroke="none" stroke-width="1.5" />
+  <text x="696.7" y="286.5" font-family="Inter, system-ui, Arial, sans-serif" font-size="15" font-weight="400" fill="#101828" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">40%</text>
+  <text x="80.0" y="403.5" font-family="Inter, system-ui, Arial, sans-serif" font-size="18" font-weight="400" fill="#101828" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Exports</text>
+  <line x1="80.0" y1="339.0" x2="780.0" y2="339.0" stroke="#EAECF0" stroke-width="1" stroke-linecap="round"/>
+  <circle cx="363.3" cy="397.5" r="9.0" fill="#12B76A" stroke="none" stroke-width="1.5" />
+  <circle cx="530.0" cy="397.5" r="9.0" fill="#EAECF0" stroke="none" stroke-width="1.5" />
+  <rect x="619.3" y="345.0" width="154.7" height="105.0" rx="6" fill="#2E6CD7" stroke="none" stroke-width="1.5" />
+  <text x="696.7" y="403.5" font-family="Inter, system-ui, Arial, sans-serif" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">90%</text>
+  <text x="80.0" y="520.5" font-family="Inter, system-ui, Arial, sans-serif" font-size="18" font-weight="400" fill="#101828" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Alerts</text>
+  <line x1="80.0" y1="456.0" x2="780.0" y2="456.0" stroke="#EAECF0" stroke-width="1" stroke-linecap="round"/>
+  <rect x="286.0" y="462.0" width="154.7" height="105.0" rx="6" fill="#749DE5" stroke="none" stroke-width="1.5" />
+  <text x="363.3" y="520.5" font-family="Inter, system-ui, Arial, sans-serif" font-size="15" font-weight="400" fill="#101828" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">60%</text>
+  <circle cx="530.0" cy="514.5" r="9.0" fill="#EAECF0" stroke="none" stroke-width="1.5" />
+  <circle cx="696.7" cy="514.5" r="9.0" fill="#12B76A" stroke="none" stroke-width="1.5" />
+  <text x="80.0" y="637.5" font-family="Inter, system-ui, Arial, sans-serif" font-size="18" font-weight="400" fill="#101828" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Audit</text>
+  <line x1="80.0" y1="573.0" x2="780.0" y2="573.0" stroke="#EAECF0" stroke-width="1" stroke-linecap="round"/>
+  <rect x="324.5" y="618.5" width="77.6" height="26.0" rx="13" fill="#EEF4FD" stroke="#EEF4FD" stroke-width="1.5" />
+  <text x="363.3" y="636.4" font-family="ui-monospace, Menlo, monospace" font-size="14" font-weight="400" fill="#175CD3" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">planned</text>
+  <circle cx="530.0" cy="631.5" r="9.0" fill="#EAECF0" stroke="none" stroke-width="1.5" />
+  <rect x="619.3" y="579.0" width="154.7" height="105.0" rx="6" fill="#D1DEF6" stroke="none" stroke-width="1.5" />
+  <text x="696.7" y="637.5" font-family="Inter, system-ui, Arial, sans-serif" font-size="15" font-weight="400" fill="#101828" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">20%</text>
+  <line x1="80.0" y1="690.0" x2="780.0" y2="690.0" stroke="#EAECF0" stroke-width="1" stroke-linecap="round"/>
+  <rect x="80.0" y="715.0" width="26.0" height="18.0" rx="4" fill="#12B76A" stroke="#12B76A" stroke-width="1.5" />
+  <text x="114.0" y="729.2" font-family="Inter, system-ui, Arial, sans-serif" font-size="15" font-weight="400" fill="#475467" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">supported</text>
+  <rect x="207.4" y="715.0" width="26.0" height="18.0" rx="4" fill="#175CD3" stroke="#175CD3" stroke-width="1.5" />
+  <text x="241.4" y="729.2" font-family="Inter, system-ui, Arial, sans-serif" font-size="15" font-weight="400" fill="#475467" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">coverage</text>
+  <rect x="900.0" y="200.0" width="600.0" height="480.0" rx="12" fill="#F9FAFB" stroke="#EAECF0" stroke-width="1.5" />
+  <line x1="1200.0" y1="200.0" x2="1200.0" y2="680.0" stroke="#EAECF0" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="900.0" y1="440.0" x2="1500.0" y2="440.0" stroke="#EAECF0" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="918.0" y="228.8" font-family="Inter, system-ui, Arial, sans-serif" font-size="14" font-weight="600" fill="#667085" text-anchor="start" letter-spacing="2" opacity="0.9" dominant-baseline="alphabetic">NICE TO HAVE</text>
+  <text x="1482.0" y="228.8" font-family="Inter, system-ui, Arial, sans-serif" font-size="14" font-weight="600" fill="#667085" text-anchor="end" letter-spacing="2" opacity="0.9" dominant-baseline="alphabetic">INVEST</text>
+  <text x="918.0" y="665.6" font-family="Inter, system-ui, Arial, sans-serif" font-size="14" font-weight="600" fill="#667085" text-anchor="start" letter-spacing="2" opacity="0.9" dominant-baseline="alphabetic">IGNORE</text>
+  <text x="1482.0" y="665.6" font-family="Inter, system-ui, Arial, sans-serif" font-size="14" font-weight="600" fill="#667085" text-anchor="end" letter-spacing="2" opacity="0.9" dominant-baseline="alphabetic">KEEP WORKING</text>
+  <text x="900.0" y="708.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="15" font-weight="400" fill="#667085" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">low</text>
+  <text x="1500.0" y="708.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="15" font-weight="400" fill="#667085" text-anchor="end" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">high</text>
+  <text x="882.0" y="680.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="15" font-weight="400" fill="#667085" text-anchor="end" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">low</text>
+  <text x="882.0" y="212.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="15" font-weight="400" fill="#667085" text-anchor="end" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">high</text>
+  <text x="1200.0" y="736.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="16" font-weight="600" fill="#475467" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">effort</text>
+  <text x="882.0" y="440.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="16" font-weight="600" fill="#475467" text-anchor="end" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">value</text>
+  <circle cx="1392.0" cy="334.4" r="11.0" fill="#175CD3" stroke="none" stroke-width="1.5" />
+  <text x="1410.0" y="339.4" font-family="Inter, system-ui, Arial, sans-serif" font-size="16" font-weight="600" fill="#101828" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Search</text>
+  <circle cx="1110.0" cy="392.0" r="8.0" fill="#667085" stroke="none" stroke-width="1.5" />
+  <text x="1128.0" y="397.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="16" font-weight="400" fill="#475467" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Exports</text>
+  <circle cx="1272.0" cy="545.6" r="8.0" fill="#667085" stroke="none" stroke-width="1.5" />
+  <text x="1290.0" y="550.6" font-family="Inter, system-ui, Arial, sans-serif" font-size="16" font-weight="400" fill="#475467" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Alerts</text>
+  <circle cx="1020.0" cy="560.0" r="8.0" fill="#667085" stroke="none" stroke-width="1.5" />
+  <text x="1038.0" y="565.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="16" font-weight="400" fill="#475467" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Audit</text>
+</svg>

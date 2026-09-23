@@ -1,27 +1,20 @@
-name: ci
-on:
-  push: { branches: [main] }
-  pull_request:
+name: figures
+on: [push, pull_request]
 jobs:
-  decks:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with: { node-version: "20" }
       - uses: actions/setup-python@v5
         with: { python-version: "3.11" }
-      - run: npm i -D playwright && npx playwright install --with-deps chromium
-      - name: Regenerate example diagrams
-        run: |
-          for d in examples/*/; do
-            for f in "$d"diagrams/*.py; do [ -e "$f" ] && python3 "$f"; done
-          done
-      - name: Render examples
-        run: npm run render:examples
-      - name: Check examples
-        run: npm run check:examples
+      - name: Build and geometry-check every figure
+        run: python3 bin/viz gallery          # exits non-zero if any figure has a geometry error
+      - uses: actions/setup-node@v4
+        with: { node-version: "20" }
+      - run: npm i playwright && npx playwright install --with-deps chromium
+      - name: Exact check in a browser
+        run: for f in gallery/*.svg; do node verify/measure.mjs "$f" || exit 1; done
+      - name: Render PNGs for review
+        run: python3 bin/viz gallery --png
       - uses: actions/upload-artifact@v4
-        with:
-          name: slide-previews
-          path: examples/*/preview/*.png
+        with: { name: figures, path: gallery/*.png }

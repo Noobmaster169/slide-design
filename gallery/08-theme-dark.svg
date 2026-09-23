@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="1200" height="700" fill="#0C1017"/>
+  <text x="70.0" y="56.0" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="600" fill="#F2F4F7" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Theme: dark</text>
+  <text x="70.0" y="84.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="16" font-weight="400" fill="#9AA4B2" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">identical code, different tokens</text>
+  <rect x="180.0" y="140.0" width="940.0" height="133.3" rx="10" fill="#161B24" stroke="#5A6577" stroke-width="1.5" />
+  <text x="156.0" y="212.7" font-family="Inter, system-ui, Arial, sans-serif" font-size="16" font-weight="600" fill="#9AA4B2" text-anchor="end" letter-spacing="2" opacity="1" dominant-baseline="alphabetic">SURFACE</text>
+  <rect x="236.4" y="158.0" width="404.6" height="97.3" rx="10" fill="#161B24" stroke="#5A6577" stroke-width="1.5" />
+  <text x="438.7" y="214.1" font-family="Inter, system-ui, Arial, sans-serif" font-size="22" font-weight="600" fill="#F2F4F7" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Console</text>
+  <rect x="659.0" y="158.0" width="404.6" height="97.3" rx="10" fill="#161B24" stroke="#5A6577" stroke-width="1.5" />
+  <text x="861.3" y="214.1" font-family="Inter, system-ui, Arial, sans-serif" font-size="22" font-weight="600" fill="#F2F4F7" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">CLI</text>
+  <rect x="180.0" y="313.3" width="940.0" height="133.3" rx="10" fill="#1B2433" stroke="#3A4A66" stroke-width="1.5" />
+  <text x="156.0" y="386.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="16" font-weight="600" fill="#7CA8FF" text-anchor="end" letter-spacing="2" opacity="1" dominant-baseline="alphabetic">ENGINE</text>
+  <rect x="236.4" y="331.3" width="827.2" height="97.3" rx="10" fill="#161B24" stroke="#5A6577" stroke-width="1.5" />
+  <text x="650.0" y="376.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="22" font-weight="600" fill="#F2F4F7" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Planner</text>
+  <text x="650.0" y="402.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="16" font-weight="400" fill="#CDD5DF" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">decides the order of work</text>
+  <path d="M639 301 L639 305 L629 305 L650 287 L671 305 L661 305 L661 301 Z" fill="#1B2433" stroke="#3A4A66" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+  <rect x="180.0" y="486.7" width="940.0" height="133.3" rx="10" fill="#161B24" stroke="#5A6577" stroke-width="1.5" />
+  <text x="156.0" y="559.3" font-family="Inter, system-ui, Arial, sans-serif" font-size="16" font-weight="600" fill="#9AA4B2" text-anchor="end" letter-spacing="2" opacity="1" dominant-baseline="alphabetic">STORAGE</text>
+  <rect x="236.4" y="504.7" width="404.6" height="97.3" rx="10" fill="#10141B" stroke="#2A3140" stroke-width="1.5" />
+  <text x="438.7" y="560.8" font-family="Inter, system-ui, Arial, sans-serif" font-size="22" font-weight="600" fill="#CDD5DF" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Primary</text>
+  <rect x="659.0" y="504.7" width="404.6" height="97.3" rx="10" fill="#10141B" stroke="#2A3140" stroke-width="1.5" />
+  <text x="861.3" y="560.8" font-family="Inter, system-ui, Arial, sans-serif" font-size="22" font-weight="600" fill="#CDD5DF" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Replica</text>
+  <path d="M639 475 L639 478 L629 478 L650 461 L671 478 L661 478 L661 475 Z" fill="#1B2433" stroke="#3A4A66" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+</svg>

@@ -1,0 +1,41 @@
+#!/usr/bin/env python3
+"""figura CLI.
+
+  viz render <script.py> [--png]    run a figure script; it writes its own .svg
+  viz shot <file.svg> [scale]       rasterise to PNG with headless Chromium
+  viz measure <file.svg>            exact verification in a browser
+  viz gallery [--png]               build every figure in gallery/
+  viz themes                        list themes
+"""
+import os, subprocess, sys, glob
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.join(ROOT, "core"))
+
+def run(script, png=False):
+    env = dict(os.environ, PYTHONPATH=os.path.join(ROOT, "core"), FIGURA_PNG="1" if png else "")
+    subprocess.run([sys.executable, script], check=True, env=env)
+
+def main(argv):
+    if not argv: print(__doc__); return 0
+    cmd, rest = argv[0], argv[1:]
+    if cmd == "render":
+        run(rest[0], png="--png" in rest)
+    elif cmd == "shot":
+        out = rest[0][:-4] + ".png"
+        subprocess.run(["node", os.path.join(ROOT, "verify", "shot.mjs"), rest[0], out] + rest[1:2], check=True)
+    elif cmd == "measure":
+        return subprocess.run(["node", os.path.join(ROOT, "verify", "measure.mjs"), *rest]).returncode
+    elif cmd == "gallery":
+        for f in sorted(glob.glob(os.path.join(ROOT, "gallery", "*.py"))):
+            print(f"-- {os.path.basename(f)}")
+            run(f, png="--png" in rest)
+    elif cmd == "themes":
+        for f in sorted(glob.glob(os.path.join(ROOT, "themes", "*.json"))):
+            print(os.path.basename(f)[:-5])
+    else:
+        print(__doc__); return 1
+    return 0
+
+if __name__ == "__main__":
+    sys.exit(main(sys.argv[1:]))

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <rect width="1400" height="900" fill="#FFFFFF"/>
+  <text x="100.0" y="56.0" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="600" fill="#101828" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Funnel</text>
+  <text x="100.0" y="84.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="16" font-weight="400" fill="#667085" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">each stage's width is its value; the drop is printed, not implied</text>
+  <rect x="220.0" y="180.0" width="900.0" height="136.5" rx="10" fill="#175CD3" stroke="none" stroke-width="1.5" />
+  <text x="670.0" y="246.2" font-family="Inter, system-ui, Arial, sans-serif" font-size="19" font-weight="600" fill="#FFFFFF" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Saw the page</text>
+  <text x="670.0" y="272.2" font-family="ui-monospace, Menlo, monospace" font-size="17" font-weight="400" fill="#FFFFFF" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">12,400</text>
+  <rect x="481.3" y="334.5" width="377.4" height="136.5" rx="10" fill="#EEF4FD" stroke="none" stroke-width="1.5" />
+  <text x="670.0" y="400.8" font-family="Inter, system-ui, Arial, sans-serif" font-size="19" font-weight="600" fill="#101828" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Started</text>
+  <text x="670.0" y="426.8" font-family="ui-monospace, Menlo, monospace" font-size="17" font-weight="400" fill="#101828" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">5,200</text>
+  <text x="1136.0" y="408.8" font-family="ui-monospace, Menlo, monospace" font-size="16" font-weight="400" fill="#BB5803" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">-58%</text>
+  <rect x="593.8" y="489.0" width="152.4" height="136.5" rx="10" fill="#EEF4FD" stroke="none" stroke-width="1.5" />
+  <text x="670.0" y="555.2" font-family="Inter, system-ui, Arial, sans-serif" font-size="19" font-weight="600" fill="#101828" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Finished setup</text>
+  <text x="670.0" y="581.2" font-family="ui-monospace, Menlo, monospace" font-size="17" font-weight="400" fill="#101828" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">2,100</text>
+  <text x="1136.0" y="563.2" font-family="ui-monospace, Menlo, monospace" font-size="16" font-weight="400" fill="#BB5803" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">-60%</text>
+  <rect x="634.4" y="643.5" width="71.1" height="136.5" rx="10" fill="#EEF4FD" stroke="none" stroke-width="1.5" />
+  <text x="670.0" y="709.8" font-family="Inter, system-ui, Arial, sans-serif" font-size="19" font-weight="600" fill="#101828" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Returned in a week</text>
+  <text x="670.0" y="735.8" font-family="ui-monospace, Menlo, monospace" font-size="17" font-weight="400" fill="#101828" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">980</text>
+  <text x="1136.0" y="717.8" font-family="ui-monospace, Menlo, monospace" font-size="16" font-weight="400" fill="#BB5803" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">-53%</text>
+</svg>

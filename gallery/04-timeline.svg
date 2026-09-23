@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#FFFFFF"/>
+  <text x="90.0" y="56.0" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="600" fill="#101828" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Timeline</text>
+  <text x="90.0" y="84.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="16" font-weight="400" fill="#667085" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">shipped is solid, planned is dashed, and the legend says so</text>
+  <line x1="140.0" y1="280.0" x2="1460.0" y2="280.0" stroke="#98A2B3" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="140.0" cy="280.0" r="13.0" fill="#175CD3" stroke="#175CD3" stroke-width="3" />
+  <text x="140.0" y="234.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="21" font-weight="600" fill="#101828" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Import</text>
+  <text x="140.0" y="208.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="15" font-weight="400" fill="#667085" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">nightly feed running</text>
+  <circle cx="580.0" cy="280.0" r="13.0" fill="#175CD3" stroke="#175CD3" stroke-width="3" />
+  <text x="580.0" y="342.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="21" font-weight="600" fill="#101828" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Live updates</text>
+  <text x="580.0" y="368.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="15" font-weight="400" fill="#667085" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">30 second refresh</text>
+  <circle cx="1020.0" cy="280.0" r="13.0" fill="#FFFFFF" stroke="#175CD3" stroke-width="3"  stroke-dasharray="4 3"/>
+  <text x="1020.0" y="234.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="21" font-weight="600" fill="#101828" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Estimates</text>
+  <text x="1020.0" y="208.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="15" font-weight="400" fill="#667085" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">one source covered</text>
+  <circle cx="1460.0" cy="280.0" r="13.0" fill="#FFFFFF" stroke="#175CD3" stroke-width="3"  stroke-dasharray="4 3"/>
+  <text x="1460.0" y="342.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="21" font-weight="600" fill="#101828" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Offline mode</text>
+  <text x="1460.0" y="368.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="15" font-weight="400" fill="#667085" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">needs a cached map</text>
+  <text x="1460.0" y="314.0" font-family="ui-monospace, Menlo, monospace" font-size="14" font-weight="400" fill="#667085" text-anchor="end" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">time -&gt;</text>
+  <rect x="140.0" y="405.0" width="26.0" height="18.0" rx="4" fill="#175CD3" stroke="#175CD3" stroke-width="1.5" />
+  <text x="174.0" y="419.2" font-family="Inter, system-ui, Arial, sans-serif" font-size="15" font-weight="400" fill="#475467" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">shipped</text>
+  <rect x="254.1" y="405.0" width="26.0" height="18.0" rx="4" fill="none" stroke="#175CD3" stroke-width="1.5" stroke-dasharray="4 3" />
+  <text x="288.1" y="419.2" font-family="Inter, system-ui, Arial, sans-serif" font-size="15" font-weight="400" fill="#475467" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">planned</text>
+  <rect x="140.0" y="560.0" width="214.0" height="180.0" rx="10" fill="#FFFFFF" stroke="#98A2B3" stroke-width="1.5" />
+  <text x="247.0" y="646.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="22" font-weight="600" fill="#101828" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Discovery</text>
+  <text x="247.0" y="672.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="16" font-weight="400" fill="#475467" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">two weeks</text>
+  <rect x="360.0" y="560.0" width="654.0" height="180.0" rx="10" fill="#EEF4FD" stroke="#B2CCF5" stroke-width="1.5" />
+  <text x="687.0" y="646.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="22" font-weight="600" fill="#101828" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Build</text>
+  <text x="687.0" y="672.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="16" font-weight="400" fill="#175CD3" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">six weeks, where we are</text>
+  <rect x="1020.0" y="560.0" width="434.0" height="180.0" rx="10" fill="#FFFFFF" stroke="#98A2B3" stroke-width="1.5" />
+  <text x="1237.0" y="646.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="22" font-weight="600" fill="#101828" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Pilot</text>
+  <text x="1237.0" y="672.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="16" font-weight="400" fill="#475467" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">four weeks</text>
+</svg>

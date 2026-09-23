@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#FFFFFF"/>
+  <text x="140.0" y="56.0" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="600" fill="#101828" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Layers</text>
+  <text x="140.0" y="84.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="16" font-weight="400" fill="#667085" text-anchor="start" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">for when the argument is what sits above what</text>
+  <rect x="220.0" y="150.0" width="1200.0" height="182.7" rx="10" fill="#FFFFFF" stroke="#98A2B3" stroke-width="1.5" />
+  <text x="196.0" y="247.3" font-family="Inter, system-ui, Arial, sans-serif" font-size="16" font-weight="600" fill="#667085" text-anchor="end" letter-spacing="2" opacity="1" dominant-baseline="alphabetic">PEOPLE</text>
+  <rect x="292.0" y="168.0" width="340.0" height="146.7" rx="10" fill="#FFFFFF" stroke="#98A2B3" stroke-width="1.5" />
+  <text x="462.0" y="248.8" font-family="Inter, system-ui, Arial, sans-serif" font-size="22" font-weight="600" fill="#101828" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Analysts</text>
+  <rect x="650.0" y="168.0" width="340.0" height="146.7" rx="10" fill="#FFFFFF" stroke="#98A2B3" stroke-width="1.5" />
+  <text x="820.0" y="248.8" font-family="Inter, system-ui, Arial, sans-serif" font-size="22" font-weight="600" fill="#101828" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Support</text>
+  <rect x="1008.0" y="168.0" width="340.0" height="146.7" rx="10" fill="#FFFFFF" stroke="#98A2B3" stroke-width="1.5" />
+  <text x="1178.0" y="248.8" font-family="Inter, system-ui, Arial, sans-serif" font-size="22" font-weight="600" fill="#101828" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Automations</text>
+  <rect x="220.0" y="388.7" width="1200.0" height="182.7" rx="10" fill="#EEF4FD" stroke="#B2CCF5" stroke-width="1.5" />
+  <text x="196.0" y="486.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="16" font-weight="600" fill="#175CD3" text-anchor="end" letter-spacing="2" opacity="1" dominant-baseline="alphabetic">SERVICE</text>
+  <rect x="292.0" y="406.7" width="519.0" height="146.7" rx="10" fill="#FFFFFF" stroke="#98A2B3" stroke-width="1.5" />
+  <text x="551.5" y="476.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="22" font-weight="600" fill="#101828" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Query engine</text>
+  <text x="551.5" y="502.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="16" font-weight="400" fill="#475467" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">plans and runs requests</text>
+  <rect x="829.0" y="406.7" width="519.0" height="146.7" rx="10" fill="#FFFFFF" stroke="#98A2B3" stroke-width="1.5" />
+  <text x="1088.5" y="476.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="22" font-weight="600" fill="#101828" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Permissions</text>
+  <text x="1088.5" y="502.0" font-family="Inter, system-ui, Arial, sans-serif" font-size="16" font-weight="400" fill="#475467" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">who may see what</text>
+  <path d="M809 377 L809 364 L799 364 L820 347 L841 364 L831 364 L831 377 Z" fill="#EEF4FD" stroke="#B2CCF5" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+  <rect x="220.0" y="627.3" width="1200.0" height="182.7" rx="10" fill="#FFFFFF" stroke="#98A2B3" stroke-width="1.5" />
+  <text x="196.0" y="724.7" font-family="Inter, system-ui, Arial, sans-serif" font-size="16" font-weight="600" fill="#667085" text-anchor="end" letter-spacing="2" opacity="1" dominant-baseline="alphabetic">STORES</text>
+  <rect x="292.0" y="645.3" width="340.0" height="146.7" rx="10" fill="#F9FAFB" stroke="#EAECF0" stroke-width="1.5" />
+  <text x="462.0" y="726.1" font-family="Inter, system-ui, Arial, sans-serif" font-size="22" font-weight="600" fill="#475467" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Warehouse</text>
+  <rect x="650.0" y="645.3" width="340.0" height="146.7" rx="10" fill="#F9FAFB" stroke="#EAECF0" stroke-width="1.5" />
+  <text x="820.0" y="726.1" font-family="Inter, system-ui, Arial, sans-serif" font-size="22" font-weight="600" fill="#475467" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Object store</text>
+  <rect x="1008.0" y="645.3" width="340.0" height="146.7" rx="10" fill="#F9FAFB" stroke="#EAECF0" stroke-width="1.5" />
+  <text x="1178.0" y="726.1" font-family="Inter, system-ui, Arial, sans-serif" font-size="22" font-weight="600" fill="#475467" text-anchor="middle" letter-spacing="0" opacity="1" dominant-baseline="alphabetic">Cache</text>
+  <path d="M809 615 L809 603 L799 603 L820 585 L841 603 L831 603 L831 615 Z" fill="#EEF4FD" stroke="#B2CCF5" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+</svg>

@@ -1,0 +1,11 @@
+{
+  "name": "dark",
+  "color": {
+    "accent": "#7CA8FF", "accent-deep": "#AFC9FF", "accent-soft": "#1B2433",
+    "ink": "#F2F4F7", "ink-2": "#CDD5DF", "ink-3": "#9AA4B2",
+    "surface": "#161B24", "sunken": "#10141B", "canvas": "#0C1017",
+    "hairline": "#2A3140", "edge": "#5A6577", "edge-soft": "#3A4A66",
+    "good": "#4ADE80", "warn": "#FDB022", "bad": "#F97066", "info": "#B692F6"
+  },
+  "series": ["#7CA8FF", "#4ADE80", "#FDB022", "#B692F6", "#67E8F9", "#F97066"]
+}
