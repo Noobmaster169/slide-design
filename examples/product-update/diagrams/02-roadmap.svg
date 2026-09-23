@@ -1,0 +1,18 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" style="position:absolute; left:0; top:0">
+<defs><linearGradient id="pipe" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3A4A66" stop-opacity=".55"/><stop offset=".5" stop-color="#161B24"/><stop offset="1" stop-color="#3A4A66" stop-opacity=".55"/></linearGradient><linearGradient id="pipev" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3A4A66" stop-opacity=".55"/><stop offset=".5" stop-color="#161B24"/><stop offset="1" stop-color="#3A4A66" stop-opacity=".55"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#7CA8FF" flood-opacity=".18"/></filter></defs>
+<line x1="260" y1="560" x2="1660" y2="560" stroke="#475467" stroke-width="3"/>
+<circle cx="260" cy="560" r="13" fill="#7CA8FF" stroke="#7CA8FF" stroke-width="3"/>
+<text x="260" y="514" font-family="system-ui, -apple-system, Arial, sans-serif" font-size="24" font-weight="600" fill="#F2F4F7" text-anchor="middle" letter-spacing="0" opacity="1">Timetable import</text>
+<text x="260" y="484" font-family="system-ui, -apple-system, Arial, sans-serif" font-size="18" font-weight="400" fill="#CDD5DF" text-anchor="middle" letter-spacing="0" opacity="1">nightly feed, running since launch</text>
+<circle cx="727" cy="560" r="13" fill="#7CA8FF" stroke="#7CA8FF" stroke-width="3"/>
+<text x="727" y="634" font-family="system-ui, -apple-system, Arial, sans-serif" font-size="24" font-weight="600" fill="#F2F4F7" text-anchor="middle" letter-spacing="0" opacity="1">Live positions</text>
+<text x="727" y="664" font-family="system-ui, -apple-system, Arial, sans-serif" font-size="18" font-weight="400" fill="#CDD5DF" text-anchor="middle" letter-spacing="0" opacity="1">vehicle feed added, 30 second refresh</text>
+<circle cx="1193" cy="560" r="13" fill="#161B24" stroke="#7CA8FF" stroke-width="3" stroke-dasharray="4 3"/>
+<text x="1193" y="514" font-family="system-ui, -apple-system, Arial, sans-serif" font-size="24" font-weight="600" fill="#F2F4F7" text-anchor="middle" letter-spacing="0" opacity="1">Fare estimates</text>
+<text x="1193" y="484" font-family="system-ui, -apple-system, Arial, sans-serif" font-size="18" font-weight="400" fill="#CDD5DF" text-anchor="middle" letter-spacing="0" opacity="1">in progress, one operator covered</text>
+<circle cx="1660" cy="560" r="13" fill="#161B24" stroke="#7CA8FF" stroke-width="3" stroke-dasharray="4 3"/>
+<text x="1660" y="634" font-family="system-ui, -apple-system, Arial, sans-serif" font-size="24" font-weight="600" fill="#F2F4F7" text-anchor="middle" letter-spacing="0" opacity="1">Offline journeys</text>
+<text x="1660" y="664" font-family="system-ui, -apple-system, Arial, sans-serif" font-size="18" font-weight="400" fill="#CDD5DF" text-anchor="middle" letter-spacing="0" opacity="1">planned, needs a cached map</text>
+<text x="260" y="900" font-family="system-ui, -apple-system, Arial, sans-serif" font-size="18" font-weight="600" fill="#7CA8FF" text-anchor="start" letter-spacing="2.5" opacity="1">SHIPPED</text>
+<text x="1660" y="900" font-family="system-ui, -apple-system, Arial, sans-serif" font-size="18" font-weight="600" fill="#98A2B3" text-anchor="end" letter-spacing="2.5" opacity="1">PLANNED</text>
+  </svg>

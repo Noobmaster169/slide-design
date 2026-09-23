@@ -1,0 +1,17 @@
+{
+  "name": "slidecraft",
+  "version": "0.1.0",
+  "description": "A toolkit and method for building high-quality slide decks as code, with automated layout checks.",
+  "type": "module",
+  "bin": { "slides": "bin/slides.mjs" },
+  "files": ["bin", "src", "themes", "templates", "kits", "docs"],
+  "scripts": {
+    "check:examples": "node bin/slides.mjs check examples/system-architecture && node bin/slides.mjs check examples/product-update",
+    "render:examples": "node bin/slides.mjs render examples/system-architecture --png && node bin/slides.mjs render examples/product-update --png"
+  },
+  "keywords": ["slides", "presentation", "deck", "svg", "diagrams", "pdf", "design-system"],
+  "license": "MIT",
+  "peerDependencies": { "playwright": ">=1.40" },
+  "peerDependenciesMeta": { "playwright": { "optional": false } },
+  "engines": { "node": ">=18" }
+}
